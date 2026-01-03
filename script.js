@@ -24,7 +24,7 @@ let track_list = [
   {
     name: "die with a smile",
     artist: "Lady Gaga",
-    image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "https://i.scdn.co/image/ab67616d00001e02b56cbed3dddc51558197d026",
     path: "https://audio.com/drew-w-kesner/audio/die-with-a-smile-lady-gaga"
   },
   {
@@ -144,4 +144,5 @@ function seekUpdate() {
     total_duration.textContent = durationMinutes + ":" + durationSeconds;
   }
 }
+
 
